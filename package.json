@@ -14,5 +14,16 @@
   "license": "ISC",
   "devDependencies": {
     "concurrently": "^5.1.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Onelle11/Book-Search-Engine.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Onelle11/Book-Search-Engine/issues"
+  },
+  "homepage": "https://github.com/Onelle11/Book-Search-Engine#readme",
+  "dependencies": {
+    "react-bootstrap": "^2.7.4"
   }
 }
