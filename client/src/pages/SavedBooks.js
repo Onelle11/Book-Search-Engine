@@ -1,11 +1,17 @@
 import React from "react";
-import {
+/* import {
   Jumbotron,
   Container,
   CardColumns,
   Card,
   Button,
-} from "react-bootstrap";
+} from "react-bootstrap"; */
+import { Jumbotron } from "react-bootstrap";
+import { Container } from "react-bootstrap";
+import { Button } from "react-bootstrap";
+import { Card } from "react-bootstrap";
+import { CardColumns } from "react-bootstrap";
+
 import { GET_ME } from "../utils/queries";
 import { REMOVE_BOOK } from "../utils/mutations";
 import Auth from "../utils/auth";
