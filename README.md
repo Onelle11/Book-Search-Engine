@@ -1,6 +1,7 @@
 # Book-Search-Engine
 
 ## Description 
+An application wherein modern websites are driven by data and user demands. This focuses on providing the user unlimited searches of books and data being able to be pulled out from the internet. This application is build using MERN stack, React front end, MongoDB database, and Node.js/Express.js server and API.
 
 ### User Story
 
@@ -45,3 +46,5 @@ THEN I am logged out of the site and presented with a menu with the options Sear
 ```
 
 ## Screenshot
+
+<img src="./client/public/Booksearchengine.png" alt="screenshot">
