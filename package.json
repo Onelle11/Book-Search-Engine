@@ -24,6 +24,7 @@
   },
   "homepage": "https://github.com/Onelle11/Book-Search-Engine#readme",
   "dependencies": {
-    "react-bootstrap": "^2.7.4"
+    "react-bootstrap": "^2.7.4",
+    "concurrently": "^5.1.0"
   }
 }
