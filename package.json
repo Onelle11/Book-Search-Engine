@@ -24,10 +24,7 @@
   },
   "homepage": "https://github.com/Onelle11/Book-Search-Engine#readme",
   "dependencies": {
-    "-": "^0.0.1",
     "concurrently": "^5.1.0",
-    "g": "^2.0.1",
-    "n": "^9.1.0",
     "react-bootstrap": "^2.7.4"
   }
 }
